@@ -1,1 +1,1 @@
-# My-JSMinisite-Template
+FizzBuzz Coding Project
