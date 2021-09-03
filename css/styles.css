@@ -56,6 +56,16 @@ main>.container {
    color: var(--secondary-color);
 }
 
+.Fizz{
+   color: rgb(35, 228, 35);
+}
+.Buzz{
+   color: darkblue;
+}
+.FizzBuzz{
+   color: darkred;
+   font-weight: bold;
+}
 /* --- Prism CSS SETUP --- */
 code[class*="language-"],
 pre[class*="language-"] {
