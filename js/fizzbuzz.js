@@ -129,9 +129,7 @@ function displayData(fbArray) {
       rowCols[4].textContent = fbArray[index+4];
 
       tableBody.appendChild(tableRow);
-      
    }
-
    //Add all the rows to the table
    
 }
